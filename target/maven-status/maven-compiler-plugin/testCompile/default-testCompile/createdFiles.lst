@@ -1,0 +1,3 @@
+stepdefinitions\Hooks_StepDefinition.class
+stepdefinitions\TaggedHooksStepDefinition.class
+MyRunner\TestRunner.class
